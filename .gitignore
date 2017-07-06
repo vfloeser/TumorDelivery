@@ -1,3 +1,11 @@
+# Mac specific
+.DS_Store
+
+# some subfolders
+plots/
+old/
+save/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
